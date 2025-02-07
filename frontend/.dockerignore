@@ -1,0 +1,13 @@
+docker-compose.*
+Dockerfile*
+*.md
+*.log
+.git
+.git/
+.git/*
+.git/**
+.nuxt/
+.output/
+dist/
+data/
+node_modules
