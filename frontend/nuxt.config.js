@@ -22,7 +22,7 @@ export default defineNuxtConfig({
   runtimeConfig: {
     public: {
       jsonUrl: "",
-      serverUrl: "http://localhost:5301",
+      serverUrl: "https://seoai-backend.agreeableground-6543fd31.northeurope.azurecontainerapps.io",
       favicon: "/favicon.ico",
       scanDefaultMaxRequests: 0,
       noFooter: false,
