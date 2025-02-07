@@ -36,7 +36,7 @@ export default defineNuxtConfig({
   io: {
     sockets: [{
       name: "main",
-      url: process.env.NUXT_PUBLIC_SERVER_URL || "http://localhost:5301",
+      url: process.env.NUXT_PUBLIC_SERVER_URL || "https://seoai-backend.agreeableground-6543fd31.northeurope.azurecontainerapps.io",
     }],
   },
 
